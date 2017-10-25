@@ -1,0 +1,15 @@
+<h1>Hello World!</h1>
+<form (submit)="addName(skill.value)">
+  <div>
+    <label for="name">Name: </label>
+    <input type="text" [(ngModel)]="name" name="name" #skill placeholder="Add your name">
+  </div>
+</form>
+
+<p class="color_red">Hello {{name}}!</p>
+<p class="color_orange">Hello {{name}}!</p>
+<p class="color_yellow">Hello {{name}}!</p>
+<p class="color_green">Hello {{name}}!</p>
+<p class="color_blue">Hello {{name}}!</p>
+<p class="color_navy">Hello {{name}}!</p>
+<p class="color_purple">Hello {{name}}!</p>

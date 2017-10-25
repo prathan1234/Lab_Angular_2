@@ -1,0 +1,39 @@
+p {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.color_red {
+    color: red;
+    font-size: 50px;
+}
+
+.color_orange {
+    color: orangered;
+    font-size: 45px;
+}
+
+.color_yellow {
+    color: yellow;
+    font-size: 40px;
+}
+
+.color_green {
+    color: green;
+    font-size: 35px;
+}
+
+.color_blue {
+    color: blue;
+    font-size: 30px;
+}
+
+.color_navy {
+    color: navy;
+    font-size: 25px;
+}
+
+.color_purple {
+    color: purple;
+    font-size: 20px;
+}
